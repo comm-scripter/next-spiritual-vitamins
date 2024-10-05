@@ -26,7 +26,7 @@ export default function Header() {
       </Link>
       <Link
         className="flex items-center justify-center bg-gray-400 rounded px-4 pointer"
-        href="about"
+        href="christianity"
       >
         Become a Christian
       </Link>
