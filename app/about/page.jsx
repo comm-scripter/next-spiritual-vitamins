@@ -12,31 +12,28 @@ export default function About() {
       <p>
         Looking back on the event that was a pretty stupid thing to say. Did I
         think God didn’t know who He was talking to? He repeated, “Get my Word
-        out”. Later I told my husband, Tim, about the encounter and we discussed
+        out”. Later I told my husband about the encounter and we discussed
         possibilities. After prayer we decided to produce a form of what we call
         “Spiritual Vitamins”.
       </p>
       <p>
         The original vitamins were made of construction paper shaped like a
         capsule. They contained a Title, Date and Scripture verse, all hand
-        lettered, and colored . I mailed 20 copies to my adult Kreiter family
-        and it took me 30 days to create 20 vitamins. They were not fancy at
-        all.
+        lettered, and colored . I mailed 20 copies to my family members and it
+        took me 30 days to create 20 vitamins. They were not fancy at all.
       </p>
       <p>
-        Months later Tim offered the idea that he could print the vitamins on
-        cardstock on the computer, in color and even find computer art work for
-        the front. I added an additional Quote on the back side. This continued
-        until recently when our son, Kerry, offered to design a Kreiter Family
-        web page to include all past, present and future vitamins.
+        Months later my husband offered the idea that he could print the
+        vitamins on cardstock on the computer, in color and even find computer
+        art work for the front. I added an additional Quote on the back side.
+        This continued until recently when our son designed a web page to
+        include all past, present and future vitamins.
       </p>
       <p>
-        Now the amazing thing is that Kerry does not work with computers or the
-        design of web pages. But after several months of research, and teaching
-        himself, Kerry has created “Stage three” of the Spiritual Vitamins
-        development. On February 10th we are launching the Spiritual Vitamin web
-        page and if you are inclined to use it we hope that it is a blessing to
-        you.
+        As any labor of love, our family has put our whole heart into sharing
+        Biblical truths in a way that can get the Word out to everyone who is
+        interested. We hope that the Spiritual Vitamin Site is a blessing to
+        you, your family, and friends.
       </p>
     </div>
   );
