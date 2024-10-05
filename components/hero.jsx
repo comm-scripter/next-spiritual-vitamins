@@ -4,7 +4,7 @@ export default function Hero() {
       <div className="hero bg-base-200 ">
         <div className="hero-content flex-col lg:flex-row">
           <img
-            src="vitamin.jpeg"
+            src="vitamin3.jpeg"
             alt="vitamins"
             className="max-w-sm rounded-lg shadow-2xl mb-20"
           />
