@@ -6,7 +6,7 @@ export default function Hero() {
           <img
             src="vitamin.jpeg"
             alt="vitamins"
-            className="max-w-sm rounded-lg shadow-2xl"
+            className="max-w-sm rounded-lg shadow-2xl mb-20"
           />
           <div>
             <h1 className="text-5xl font-bold">
