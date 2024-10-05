@@ -4,7 +4,7 @@ import Image from "next/image";
 export default function Header() {
   return (
     <div className="flex bg-gray-300 text-2xl align-center justify-between p-4">
-      <div className="relative w-20 h-15 bg-gray-400 rounded p-4 pointer">
+      <div className="relative w-20 h-15 rounded p-4">
         <Image
           src="/logo.png"
           alt="get the Word out logo"
