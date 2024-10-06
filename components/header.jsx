@@ -5,9 +5,9 @@ export default function Header() {
   return (
     <div className="flex bg-gradient-to-r from-gray-300 to-gray-100 text-2xl items-center justify-between p-4 shadow-md">
       <div className="flex">
-        <div className="lg:hidden relative w-20 h-15 rounded p-4 mr-8">
+        <div className="hover:scale-110 transition-all relative w-20 h-15 rounded p-4 mr-8">
           <Link
-            className="lg:hidden flex items-center justify-center"
+            className="flex items-center justify-center"
             href="christianity"
           >
             <Image
