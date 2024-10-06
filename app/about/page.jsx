@@ -11,7 +11,7 @@ export default function About() {
         be God speaking to me. It was not a dream as I was wide awake. I
         answered and said, “Lord, I am a nobody. I am not a preacher nor do I
         teach women or children in church. How can I get Your Word out?”
-      </p>{" "}
+      </p>
       <p>
         Looking back on the event that was a pretty stupid thing to say. Did I
         think God didn’t know who He was talking to? He repeated, “Get my Word
@@ -22,7 +22,7 @@ export default function About() {
       <p>
         The original vitamins were made of construction paper shaped like a
         capsule. They contained a Title, Date and Scripture verse, all hand
-        lettered, and colored . I mailed 20 copies to my family members and it
+        lettered, and colored. I mailed 20 copies to my family members and it
         took me 30 days to create 20 vitamins. They were not fancy at all.
       </p>
       <p>
