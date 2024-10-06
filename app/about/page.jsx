@@ -7,17 +7,18 @@ export default function About() {
       <p className="font-bold text-3xl">HOW THE SPIRITUAL VITAMINS DEVELOPED</p>
       <p>
         While reading my Devotions one morning about 2 years ago I heard a voice
-        (yes, it was audible for me) say, “Get my Word out!” I understood it to
-        be God speaking to me. It was not a dream as I was wide awake. I
-        answered and said, “Lord, I am a nobody. I am not a preacher nor do I
-        teach women or children in church. How can I get Your Word out?”
+        (yes, it was audible for me) say, &ldquo;Get my Word out!&rdquo; I
+        understood it to be God speaking to me. It was not a dream as I was wide
+        awake. I answered and said, &ldquo;Lord, I am a nobody. I am not a
+        preacher nor do I teach women or children in church. How can I get Your
+        Word out?&rdquo;
       </p>
       <p>
         Looking back on the event that was a pretty stupid thing to say. Did I
-        think God didn’t know who He was talking to? He repeated, “Get my Word
-        out”. Later I told my husband about the encounter and we discussed
-        possibilities. After prayer we decided to produce a form of what we call
-        “Spiritual Vitamins”.
+        think God didn't know who He was talking to? He repeated, &ldquo;Get my
+        Word out&rdquo;. Later I told my husband about the encounter and we
+        discussed possibilities. After prayer we decided to produce a form of
+        what we call &ldquo;Spiritual Vitamins&rdquo;.
       </p>
       <p>
         The original vitamins were made of construction paper shaped like a
@@ -49,7 +50,7 @@ export default function About() {
             ></Image>
           </Link>
         </div>
-        <h2>"Get the Word out!"</h2>
+        <h2>&ldquo;Get the Word out!&rdquo;</h2>
       </div>
     </div>
   );
