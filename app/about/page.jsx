@@ -1,7 +1,7 @@
 export default function About() {
   return (
     <div className="grid grid-rows-100 items-center justify-items-center h-screen p-8 pb-20 gap-10 sm:p-20 font-[family-name:var(--font-geist-sans)] bg-gradient-to-r from-blue-200 to-emerald-100">
-      <p>HOW THE SPIRITUAL VITAMINS DEVELOPED</p>
+      <p className="font-bold text-3xl">HOW THE SPIRITUAL VITAMINS DEVELOPED</p>
       <p>
         While reading my Devotions one morning about 2 years ago I heard a voice
         (yes, it was audible for me) say, “Get my Word out!” I understood it to
