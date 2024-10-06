@@ -6,7 +6,10 @@ export default function Header() {
     <div className="flex bg-gradient-to-r from-gray-300 to-gray-100 text-2xl items-center justify-between p-4 shadow-md">
       <div className="flex">
         <div className="lg:hidden relative w-20 h-15 rounded p-4 mr-8">
-          <Link className="lg:hidden flex items-center justify-center" href="/">
+          <Link
+            className="lg:hidden flex items-center justify-center"
+            href="christianity"
+          >
             <Image
               src="/logo.png"
               alt="get the Word out logo"
