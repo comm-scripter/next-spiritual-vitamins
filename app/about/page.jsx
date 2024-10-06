@@ -20,12 +20,26 @@ export default function About() {
         encounter and we discussed possibilities. After prayer we decided to
         produce a form of what we call &ldquo;Spiritual Vitamins&rdquo;.
       </p>
-      <p>
-        The original vitamins were made of construction paper shaped like a
-        capsule. They contained a Title, Date and Scripture verse, all hand
-        lettered, and colored. I mailed 20 copies to my family members and it
-        took me 30 days to create 20 vitamins. They were not fancy at all.
-      </p>
+
+      <div className="relative">
+        <div>
+          <Image
+            width={200}
+            height={100}
+            src="/ark.jpg"
+            alt="get the Word out logo"
+            className="float-left mr-5 rounded-full"
+          ></Image>
+        </div>
+        <p className="text-justify">
+          <strong className="text-2xl">The original vitamins</strong> were made
+          of construction paper shaped like a capsule. They contained a Title,
+          Date and Scripture verse, all hand lettered, and colored. I mailed 20
+          copies to my family members and it took me 30 days to create 20
+          vitamins. They were not fancy at all.
+        </p>
+      </div>
+
       <p>
         Months later my husband offered the idea that he could print the
         vitamins on cardstock on the computer, in color and even find computer
