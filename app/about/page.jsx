@@ -15,10 +15,10 @@ export default function About() {
       </p>
       <p>
         Looking back on the event that was a pretty stupid thing to say. Did I
-        think God didn't know who He was talking to? He repeated, &ldquo;Get my
-        Word out&rdquo;. Later I told my husband about the encounter and we
-        discussed possibilities. After prayer we decided to produce a form of
-        what we call &ldquo;Spiritual Vitamins&rdquo;.
+        think God didn&apos;t know who He was talking to? He repeated,
+        &ldquo;Get my Word out&rdquo;. Later I told my husband about the
+        encounter and we discussed possibilities. After prayer we decided to
+        produce a form of what we call &ldquo;Spiritual Vitamins&rdquo;.
       </p>
       <p>
         The original vitamins were made of construction paper shaped like a
