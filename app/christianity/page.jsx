@@ -1,6 +1,6 @@
 export default function Christianity() {
   return (
-    <div className="grid grid-rows-100 items-center justify-items-center h-screen p-8 pb-20 gap-10 sm:p-20 font-[family-name:var(--font-geist-sans)] bg-gradient-to-r from-blue-200 to-emerald-100">
+    <div className="grid grid-rows-100 items-center justify-items-center min-h-screen h-full p-8 pb-20 gap-10 sm:p-20 font-[family-name:var(--font-geist-sans)] bg-gradient-to-r from-blue-200 to-emerald-100">
       <div className="p-10"></div>
       <p className="font-bold text-2xl">
         Would you like to ask Jesus to be your personal Lord and Savior?
@@ -14,19 +14,16 @@ export default function Christianity() {
         will. I pray this in the name of Jesus. Amen.”
       </p>
       <p>
-        Did you pray this prayer? The Bible says if you confess your sins and
-        believe in you heart that Jesus Christ died for your sins and rose
-        again, then you are a Christian!
+        Did you pray this prayer? If you did, you are a child of God and belong
+        to the family of believers called Christians! The Bible says if you
+        confess your sins and believe in you heart that Jesus Christ died for
+        your sins and rose again, then you are saved!
       </p>
+      <p className="font-bold text-2xl"> Welcome to the family!!</p>
       <p>
-        Begin your new journey by reading the Bible to discover exactly how much
-        God loves you and His plan for your life!
+        Begin your new journey by reading the Bible to learn exactly how much
+        God loves you and to discover His plan for your life!
       </p>
-      <p className="font-bold text-xl">
-        You are a child of God and belong to the family of believers called
-        Christians!
-      </p>
-      <p className="font-bold text-2xl"> Welcome!!</p>
     </div>
   );
 }

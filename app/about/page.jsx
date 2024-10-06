@@ -1,6 +1,9 @@
+import Link from "next/link";
+import Image from "next/image";
+
 export default function About() {
   return (
-    <div className="grid grid-rows-100 items-center justify-items-center h-screen p-8 pb-20 gap-10 sm:p-20 font-[family-name:var(--font-geist-sans)] bg-gradient-to-r from-blue-200 to-emerald-100">
+    <div className="grid grid-rows-100 items-center justify-items-center min-h-screen h-full p-8 pb-20 gap-10 sm:p-20 font-[family-name:var(--font-geist-sans)] bg-gradient-to-r from-blue-200 to-emerald-100">
       <p className="font-bold text-3xl">HOW THE SPIRITUAL VITAMINS DEVELOPED</p>
       <p>
         While reading my Devotions one morning about 2 years ago I heard a voice
@@ -35,6 +38,19 @@ export default function About() {
         interested. We hope that the Spiritual Vitamin Site is a blessing to
         you, your family, and friends.
       </p>
+      <div className="flex justify-between items-center hover:scale-110 transition-all">
+        <div className="hover:scale-110 transition-all relative w-20 h-15 rounded p-1 mr-1">
+          <Link className="flex items-center justify-center" href="/">
+            <Image
+              src="/logo.png"
+              alt="get the Word out logo"
+              className="!relative"
+              fill
+            ></Image>
+          </Link>
+        </div>
+        <h2>"Get the Word out!"</h2>
+      </div>
     </div>
   );
 }
