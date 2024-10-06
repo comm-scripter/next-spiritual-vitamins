@@ -1,7 +1,7 @@
 export default function Hero() {
   return (
     <>
-      <div className="hero bg-base-200 ">
+      <div className="hero bg-base-200 p-4">
         <div className="hero-content flex-col lg:flex-row">
           <img
             src="vitamin3.jpeg"
