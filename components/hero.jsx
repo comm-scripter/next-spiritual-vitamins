@@ -30,8 +30,8 @@ export default function Hero() {
               className="inline-flex items-center pb-2"
             ></Image>
             <p className="py-6 text-3xl inline">
-              "Getting the Word out" by sharing topical Bible verses, thoughtful
-              quotes, and study notes.
+              &ldquo;Getting the Word out&rdquo; by sharing topical Bible
+              verses, thoughtful quotes, and study notes.
             </p>
           </div>
           <div className="flex justify-center mb-8">
