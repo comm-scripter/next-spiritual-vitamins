@@ -21,19 +21,19 @@ export default function Header() {
       </div>
 
       <Link
-        className="hidden lg:flex items-center justify-center hover:scale-105 transition-all bg-gray-300 hover:bg-gray-400 hover:text-white rounded px-4 py-2 pointer"
+        className="hidden lg:flex items-center justify-center hover:scale-105 transition-all bg-gray-300 hover:bg-gray-400 hover:text-white rounded-full px-4 py-2 pointer"
         href="/"
       >
         Home
       </Link>
       <Link
-        className="hidden lg:flex items-center justify-center hover:scale-105 transition-all bg-gray-300 hover:bg-gray-400 hover:text-white rounded px-4 py-2 pointer"
+        className="hidden lg:flex items-center justify-center hover:scale-105 transition-all bg-gray-300 hover:bg-gray-400 hover:text-white rounded-full px-4 py-2 pointer"
         href="about"
       >
         About
       </Link>
       <Link
-        className="hidden lg:flex items-center justify-center hover:scale-105 transition-all bg-gray-300 hover:bg-gray-400 hover:text-white rounded px-4 py-2 pointer"
+        className="hidden lg:flex items-center justify-center hover:scale-105 transition-all bg-gray-300 hover:bg-gray-400 hover:text-white rounded-full px-4 py-2 pointer"
         href="christianity"
       >
         Become a Christian
