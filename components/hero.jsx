@@ -35,7 +35,7 @@ export default function Hero() {
             </p>
           </div>
           <div className="flex justify-center mb-8">
-            <button className="bg-blue-500 hover:bg-blue-700 rounded-full py-2 px-4 text-white text-2xl shadow-lg">
+            <button className="bg-blue-500 hover:bg-blue-700 hover:scale-105 transition-all rounded-full py-2 px-4 text-white text-2xl shadow-lg">
               Get started!
             </button>
           </div>
